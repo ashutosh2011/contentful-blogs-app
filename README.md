@@ -80,7 +80,3 @@ CONTENTFUL_MANAGEMENT_API_ACCESS_TOKEN=your_management_api_token_here
 ```
 
 This allows you to interact with the polls. Happy voting!
-
----
-
-You can place this revised section at the bottom of your README to guide users on how to interact with the new poll feature.
